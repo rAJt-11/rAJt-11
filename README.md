@@ -1,16 +1,13 @@
-### Hi there 👋
+#### ABOUT
 
-<!--
-**rAJt-11/rAJt-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Professional who loves envangelizing world changing technologies.
 
-Here are some ideas to get you started:
+I've always been curious, a technophile, and an independent introvert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### TECH STACK
+
+C# / .NET / ASP.NET Core / ASP.NET Web API / ASP.NET MVC / JQUERY / MYSQL / HTML / CSS / SCSS / Angular / LINIX / GITHUB / REST API
+
+##### MOTTO
+
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers. - Sydney Harris 
