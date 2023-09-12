@@ -46,7 +46,8 @@ I'm a passionate software developer with a strong background in payment services
 
 I'm always open to connecting with fellow developers, discussing payment services, and exploring potential collaborations.
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rAJt_11.svg?style=social&label=Follow%20%40rAJt_11)](https://twitter.com/rAJt_11)
+<!-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rAJt_11.svg?style=social&label=Follow%20%40rAJt_11)](https://twitter.com/rAJt_11) --> 
+[![Twitter Connect](https://img.shields.io/badge/Twitter-Connect-blue?style=social&logo=twitter&label=Twitter)](https://twitter.com/rAJt_11)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/rajat-chauhan-85b193179)
 
 ### Contact 
