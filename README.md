@@ -20,22 +20,17 @@ I'm a passionate software developer with a strong background in payment services
 ![C#](https://img.shields.io/badge/-C%23-000?logo=c-sharp)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?logo=dotnetcore)
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
@@ -51,11 +46,14 @@ I'm a passionate software developer with a strong background in payment services
 
 ### Let's Connect
 
-I'm always open to connecting with fellow developers, discussing payment services, and exploring potential collaborations. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-handle).
+I'm always open to connecting with fellow developers, discussing payment services, and exploring potential collaborations.
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rAJt_11.svg?style=social&label=Follow%20%40rAJt_11)](https://twitter.com/rAJt_11)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/rajat-chauhan-85b193179)
 
 ### Contact 
 
-You can also drop me an email at [dreamerrajat11@gmail.com] for inquiries, project collaborations, or just to say hello!
+You can also drop me an email at [dreamerrajat11@gmail.com] for inquiries, project collaborations !!
 
 Thanks for stopping by, and I look forward to sharing and learning together within the GitHub community.
 
