@@ -32,8 +32,6 @@ I'm a passionate software developer with a strong background in payment services
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
-
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-000?&logo=jupyter)
@@ -53,7 +51,9 @@ I'm always open to connecting with fellow developers, discussing payment service
 
 ### Contact 
 
-You can also drop me an email at [dreamerrajat11@gmail.com] for inquiries, project collaborations !!
+You can also drop me an email for inquiries, project collaborations.
+
+[![Gmail Badge](https://img.shields.io/badge/-dreamerrajat11@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dreamerrajat11@gmail.com)](mailto:dreamerrajat11@gmail.com)
 
 Thanks for stopping by, and I look forward to sharing and learning together within the GitHub community.
 
