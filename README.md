@@ -19,7 +19,7 @@ I'm a passionate software developer with a strong background in payment services
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C#](https://img.shields.io/badge/-C%23-000?logo=c-sharp)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?logo=dotnetcore)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?logo=.net)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
