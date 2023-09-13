@@ -2,17 +2,17 @@
 
 I'm a passionate software developer with a strong background in payment services and financial technology. I thrive on crafting innovative solutions and loves envangelizing world changing technologies that drive efficiency and security in payment processing.
 
-🌟 **Here's what I bring to the table :**
+🌟 **Here's what I bring to the table:**
 
-- 💼 **Payment Services Expertise :** With 1.4 years of experience in the payment industry, I've worked on diverse projects, from developing secure payment gateways to optimizing transaction processing pipelines.
+- 💼 **Payment Services Expertise:** With 1.4 years of experience in the payment industry, I've worked on diverse projects, from developing secure payment gateways to optimizing transaction processing pipelines.
 
-- 💻 **Tech Enthusiast :** I'm constantly exploring emerging technologies and staying up-to-date with the latest trends in software development.
+- 💻 **Tech Enthusiast:** I'm constantly exploring emerging technologies and staying up-to-date with the latest trends in software development.
 
-- 🚀 **Problem Solver :** I enjoy tackling complex challenges and turning them into elegant, scalable solutions. Whether it's optimizing transaction speed or enhancing payment security, I'm always up for the task.
+- 🚀 **Problem Solver:** I enjoy tackling complex challenges and turning them into elegant, scalable solutions. Whether it's optimizing transaction speed or enhancing payment security, I'm always up for the task.
 
-- 🌐 **Open Source Contributor :** I'm a firm believer in the open-source community. You can find some of my contributions on GitHub, where I actively collaborate on projects related to payment systems and beyond.
+- 🌐 **Open Source Contributor:** I'm a firm believer in the open-source community. You can find some of my contributions on GitHub, where I actively collaborate on projects related to payment systems and beyond.
 
-- 📚 **Continuous Learner :** Learning is a never-ending journey for me. I'm currently diving deep into Data Science and AI to expand my expertise.
+- 📚 **Continuous Learner:** Learning is a never-ending journey for me. I'm currently diving deep into Data Science and AI to expand my expertise.
 
 ### Languages
 
