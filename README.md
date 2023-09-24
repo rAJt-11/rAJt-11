@@ -40,7 +40,7 @@ I'm a passionate software developer with a strong background in payment services
 
 ### Personal Projects
 
-[![Money Locker Project](https://img.shields.io/badge/-📝%20MoneyLocker-000)](https://github.com/rAJt-11/Money-Locker-Project)
+[![Money Locker Project](https://img.shields.io/badge/-📝%20MoneyLocker-000)]()
 
 ### Let's Connect
 
