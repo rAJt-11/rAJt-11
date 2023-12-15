@@ -4,7 +4,7 @@ I'm a passionate software developer with a strong background in payment services
 
 **Here's what I bring to the table** 〽️
 
-- 💼 **Payment Services Expertise:** With 1.4 years of experience in the payment industry, I've worked on diverse projects, from developing secure payment gateways to optimizing transaction processing pipelines.
+- 💼 **Payment Services Expertise:** With 2 years of experience in the payment industry, I've worked on diverse projects, from developing secure payment gateways to optimizing transaction processing pipelines.
 
 - 💻 **Tech Enthusiast:** I'm constantly exploring emerging technologies and staying up-to-date with the latest trends in software development.
 
