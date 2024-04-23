@@ -37,11 +37,6 @@ I'm a passionate software developer with a strong background in payment services
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-000?&logo=jupyter)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse)
 
-
-### Personal Projects
-
-[![Money Locker Project](https://img.shields.io/badge/-📝%20MoneyLocker-000)](https://github.com/rAJt-11/Money-Locker-Project)	
-
 ### Let's Connect
 
 I'm always open to connecting with fellow developers, discussing payment services, and exploring potential collaborations.
