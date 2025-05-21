@@ -1,19 +1,19 @@
 ## Hi there, I'm Rajat Chauhan 👨‍💻
 
-I'm a passionate software developer with a strong background in payment services and financial technology. I thrive on crafting innovative solutions and loves envangelizing world changing technologies that drive efficiency and security in payment processing.
+I'm a dedicated software developer with over 3 years of experience in Web Services and Financial Technology. I thrive on crafting innovative solutions that drive efficiency and security in web development and payment processing, always focused on creating systems that solve real-world problems.
 
 **Here's what I bring to the table** 〽️
 
-- 💼 **Payment Services Expertise:** With 2 years of experience in the payment industry, I've worked on diverse projects, from developing secure payment gateways to optimizing transaction processing pipelines.
+- 💼 **Expertise:** I’ve had the opportunity to work on both CRM systems and fintech-related projects, focusing on the development of secure, scalable, and high-performance solutions. My mission is to build systems that not only meet complex business requirements but also empower organizations to achieve their financial goals with confidence and reliability.
 
-- 💻 **Tech Enthusiast:** I'm constantly exploring emerging technologies and staying up-to-date with the latest trends in software development.
+- 💻 **Tech Enthusiast:** I'm passionate about technology and continually explore emerging tools and frameworks to stay ahead of the curve. I stay up to date with the latest trends in software development, always seeking innovative ways to enhance performance, security, and user experience.
+  
+- 🚀 **Problem Solver:** I thrive on tackling complex challenges and turning them into elegant, scalable solutions. Whether it's reducing code overhead, optimizing performance and security, or crafting seamless user experiences, I approach every problem with curiosity and a drive for excellence.
 
-- 🚀 **Problem Solver:** I enjoy tackling complex challenges and turning them into elegant, scalable solutions. Whether it's optimizing transaction speed or enhancing payment security, I'm always up for the task.
-
-- 🌐 **Open Source Contributor:** I'm a firm believer in the open-source community. You can find some of my contributions on GitHub, where I actively collaborate on projects related to payment systems and beyond.
-
-- 📚 **Continuous Learner:** Learning is a never-ending journey for me. I'm currently diving deep into Data Science and AI to expand my expertise.
-
+- 🌐 **Open Source Contributor:** I believe in the power of community-driven development and actively contribute to GitHub. By sharing my work publicly—especially around payment systems and fintech solutions—I aim to promote innovation, collaboration, and progress across the industry and beyond.
+  
+- 📚 **Continuous Learner:** Learning is a never-ending journey for me. I'm currently diving deep into deployment strategies and modern front-end frameworks to broaden my skill set and continue building cutting-edge solutions in the Fintech space.
+  
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
