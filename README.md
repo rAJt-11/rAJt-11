@@ -16,10 +16,11 @@ I'm a dedicated software developer with over 3 years of experience in Web Servic
   
 ### Languages
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C#](https://img.shields.io/badge/-C%23-000?logo=c-sharp)
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+![LINQ](https://img.shields.io/badge/-LINQ-000?logo=.net)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?logo=.net)
+![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET%20Web%20API-000?logo=dotnet)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
@@ -28,7 +29,7 @@ I'm a dedicated software developer with over 3 years of experience in Web Servic
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MSSQL](https://img.shields.io/badge/-MSSQL-000?&logo=microsoft-sql-server)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -36,6 +37,7 @@ I'm a dedicated software developer with over 3 years of experience in Web Servic
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-000?&logo=jupyter)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse)
+
 
 ### Let's Connect
 
