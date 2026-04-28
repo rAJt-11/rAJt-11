@@ -1,6 +1,6 @@
 ## Hi there, I'm Rajat Chauhan 👨‍💻
 
-I'm a dedicated software developer with over 3 years of experience in Web Services and Financial Technology. I thrive on crafting innovative solutions that drive efficiency and security in web development and payment processing, always focused on creating systems that solve real-world problems.
+I'm a dedicated software developer with over 4 years of experience in Web Services and Financial Technology. I thrive on crafting innovative solutions that drive efficiency and security in web development and payment processing, always focused on creating systems that solve real-world problems.
 
 **Here's what I bring to the table** 〽️
 
